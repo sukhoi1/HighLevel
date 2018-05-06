@@ -8,3 +8,6 @@ Demo.WebApi/obj/
 Demo.WebApi/bin/
 thirdparty/
 .vs/
+Demo.DAL.Test/bin/
+Demo.DAL.Test/obj/
+Demo.DAL/bin/

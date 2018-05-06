@@ -11,3 +11,7 @@ thirdparty/
 Demo.DAL.Test/bin/
 Demo.DAL.Test/obj/
 Demo.DAL/bin/
+Demo.BL.Test/bin/
+Demo.BL.Test/obj/
+Demo.BL/bin/Debug/Demo.BL.pdb
+Demo.BL/bin/

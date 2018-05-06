@@ -1,0 +1,10 @@
+Demo.BL/obj/
+.vs/Demo/
+Demo.DAL/obj/
+Demo.Db/obj/
+Demo.WinForm/obj/
+packages/
+Demo.WebApi/obj/
+Demo.WebApi/bin/
+thirdparty/
+.vs/

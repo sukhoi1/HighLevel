@@ -12,6 +12,8 @@ namespace Demo.WebApi.Controllers
         {
             ViewBag.Title = "Home Page";
 
+            // https://github.com/FabianGosebrink/ASPNET-OData-WebAPI-Sample
+
             return View();
         }
     }
